@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=VideoAcq
+Comment=Multicamera video acquisition with build-in LSL synchronization
+Exec=/home/neatlabs/Projects/VideoAcq/launcher.sh
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/neatlabs/Projects/VideoAcq/logo_large_inv.png
+Categories=GNOME
